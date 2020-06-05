@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/neo1908/eds-code-school-hello)](https://repl.it/github/neo1908/eds-code-school-hello)
+
 # Hello, World!
 
 Your task is simple, update the `hello.py` file so that the following test cases pass:
